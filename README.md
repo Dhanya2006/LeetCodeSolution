@@ -7,6 +7,7 @@
 | [0088-merge-sorted-array](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
@@ -36,6 +37,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -45,9 +47,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Dhanya2006/LeetCodeSolution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
